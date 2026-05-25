@@ -1,0 +1,10 @@
+[package]
+name = "core"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+description = "核心库：错误处理、工具函数、证书生成、软件检查等"
+repository.workspace = true
+
+[dependencies]
