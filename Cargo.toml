@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "crates/f3s-core"
+  "crates/core"
 ]
 resolver = "2"
 
