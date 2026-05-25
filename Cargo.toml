@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  "crates/core"
+    "crates/core"
 ]
 resolver = "2"
 
@@ -14,3 +14,4 @@ license = "MIT"
 
 [workspace.dependencies]
 which = "6.0"
+anyhow = "1.0"
